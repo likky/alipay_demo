@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "M:\\alipay_demo\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tiany\\.gradle\\caches\\transforms-2\\files-2.1\\2c68f06eee72debdc5795db3086322ad\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
